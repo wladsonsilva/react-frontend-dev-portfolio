@@ -1,19 +1,19 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Davina Griss. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Dorota1997. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description_header": "Wladson",
+      "description": "👋 Eu sou Wladon Silva.para fins de demonstração. Trabalho com o React. O que você está vendo agora é um template de portfólio da Dorota1997. Se você gosta desse template, não esqueça de dar ⭐ para que fique mais reconhecido por outros usuários. Obrigado 👌",
       "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "about": "Quem sou eu?",
+        "projects": "Projetos",
+        "skills": "Habilidades",
+        "experience": "Experiência"
       }
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+        "title": "Fandom Haikyuu",
+        "startDate": "2024",
+        "description": "O aplicativo mais complexo no qual tive a oportunidade de trabalhar. Aprendi muitas tecnologias e meu código foi revisado por um mentor excelente. A aplicação foi um fandom do anime Haikyuu.",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
           "images/portfolio/animal-shelter/p2.jpg"
@@ -35,9 +35,9 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
+        "title": "Gestor Financeiro",
+        "startDate": "2024",
+        "description": "Gestor Financeiro, usando Java e WindowBuilder :)",
         "images": [
           "images/portfolio/photography/p1.jpg",
           "images/portfolio/photography/p2.jpg"
@@ -55,9 +55,9 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+        "title": "IMC Academia ",
+        "startDate": "2024",
+        "description": "Um desenvolvimento Web que simula uma academia e calcula seu IMC",
         "images": [
           "images/portfolio/adventure/p1.jpg",
           "images/portfolio/adventure/p2.jpg"
@@ -81,35 +81,36 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
+    
+        "title": "Front-devolper",
+        "years": "01.2023 - 10.2025",
         "mainTech": [
-          "Angular 8/9/10"
+          "Nodejs"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
+          "Java",
+          "CSS",
+          "HTML"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
+       
+        "title": "Técnico",
+        "years": "06.2024 - 11.2025",
         "mainTech": [
-          "Angular 7/8"
+          "Manutenção"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
-          "JavaScript",
-          "DHTMLX Gantt"
+     
+         "Hardware",
+         "Diagnóstico",
+         "Manutenção",
+         "Drivers",
+         "Reparos",
+         "Formatação",
+          "Instalação"
+
         ]
       }
     ]
