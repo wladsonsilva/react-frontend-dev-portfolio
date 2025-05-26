@@ -15,8 +15,8 @@
       "startDate": "2024",
       "description": "The most complex app I had the chance to work on. I learned many technologies and my code was reviewed by an excellent mentor. The app was a fandom of the anime Haikyuu.",
       "images": [
-        "images/portfolio/animal-shelter/p1.jpg",
-        "images/portfolio/animal-shelter/p2.jpg"
+        "images/portfolio/animal/haikyuu.jpeg",
+        "images/portfolio/animal/p2.jpg"
       ],
       "url": "",
       "technologies": [
@@ -39,7 +39,7 @@
       "startDate": "2024",
       "description": "Financial Manager, using Java and WindowBuilder :)",
       "images": [
-        "images/portfolio/photography/p1.jpg",
+        "images/portfolio/photography/Financeiro.jpeg",
         "images/portfolio/photography/p2.jpg"
       ],
       "url": "https://github.com",
