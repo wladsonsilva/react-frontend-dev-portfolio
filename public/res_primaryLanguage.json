@@ -15,8 +15,8 @@
       "startDate": "2024",
       "description": "The most complex app I had the chance to work on. I learned many technologies and my code was reviewed by an excellent mentor. The app was a fandom of the anime Haikyuu.",
       "images": [
-        "images/portfolio/animal/haikyuu.jpeg",
-        "images/portfolio/animal/p2.jpg"
+        "images/portfolio/anime/haikyuu.jpeg",
+        "images/portfolio/anime/haikyuu2.png"
       ],
       "url": "",
       "technologies": [
@@ -55,12 +55,12 @@
       ]
     },
     {
-      "title": "Gym BMI Calculator",
+      "title": "IMC Calculator",
       "startDate": "2024",
-      "description": "A web development project that simulates a gym and calculates your BMI.",
+      "description": "A web development project IMC calculator.",
       "images": [
-        "images/portfolio/adventure/p1.jpg",
-        "images/portfolio/adventure/p2.jpg"
+        "images/portfolio/adventure/CalcularIMC.png",
+        "images/portfolio/adventure/CalcularIMC2.png"
       ],
       "url": "https://github.com",
       "technologies": [

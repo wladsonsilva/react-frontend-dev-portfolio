@@ -15,8 +15,8 @@
         "startDate": "2024",
         "description": "O aplicativo mais complexo no qual tive a oportunidade de trabalhar. Aprendi muitas tecnologias e meu código foi revisado por um mentor excelente. A aplicação foi um fandom do anime Haikyuu.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+         "images/portfolio/anime/haikyuu.jpeg",
+        "images/portfolio/anime/haikyuu2.png"
         ],
         "url": "",
         "technologies": [
@@ -39,8 +39,8 @@
         "startDate": "2024",
         "description": "Gestor Financeiro, usando Java e WindowBuilder :)",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+        "images/portfolio/photography/Financeiro.jpeg",
+        "images/portfolio/photography/p2.jpg"
         ],
         "url": "https://github.com",
         "technologies": [
@@ -59,8 +59,8 @@
         "startDate": "2024",
         "description": "Um desenvolvimento Web que simula uma academia e calcula seu IMC",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+         "images/portfolio/adventure/CalcularIMC.png",
+        "images/portfolio/adventure/CalcularIMC2.png"
         ],
         "url": "https://github.com",
         "technologies": [
